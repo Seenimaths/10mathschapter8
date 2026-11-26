@@ -1,0 +1,25 @@
+{
+  "name": "Class 10 Maths \u00b7 Chapter 8: Statistics & Probability 3D Lab",
+  "short_name": "Ch 8 Stats & Prob",
+  "description": "Interactive Class 10 Maths Chapter 8 Statistics & Probability PWA with Real 3D Physics Games, Teacher Walkthroughs, and Expanded Student Evaluation Module.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#1e1b4b",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
